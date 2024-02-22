@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Limão Taiti",
+    "price": "R$ 4,98 kg"
+  },
+  {
+    "name": "Banana Prata",
+    "price": "R$ 8,98 kg"
+  },
+  {
+    "name": "Laranja Pera",
+    "price": "R$ 3,89 kg"
+  },
+  {
+    "name": "Morango Hort Qualli Embalagem 200G",
+    "price": "R$ 11,98"
+  },
+  {
+    "name": "Abacaxi",
+    "price": "R$ 11,98"
+  },
+  {
+    "name": "Manga Palmer Kg",
+    "price": "R$ 6,98 kg"
+  },
+  {
+    "name": "Maçã Gala",
+    "price": "R$ 12,98 kg"
+  },
+  {
+    "name": "Uva Thompson Florestal 500G",
+    "price": "R$ 14,98"
+  },
+  {
+    "name": "Tomate Grape Bem da Nossa Terra 180G",
+    "price": "R$ 6,79"
+  },
+  {
+    "name": "Pêssego",
+    "price": "R$ 11,98 kg"
+  },
+  {
+    "name": "Melancia Baby com Semente",
+    "price": "R$ 7,98 kg"
+  },
+  {
+    "name": "Mamão Formosa Kg",
+    "price": "R$ 9,98 kg"
+  },
+  {
+    "name": "Morango Safra Nova Bandeja 200G",
+    "price": "R$ 11,98"
+  },
+  {
+    "name": "Uva Crimson Embalagem 500G",
+    "price": "R$ 12,98"
+  },
+  {
+    "name": "Abacaxi Havaí",
+    "price": "R$ 11,98"
+  },
+  {
+    "name": "Maracujá Azedo",
+    "price": "R$ 21,98 kg"
+  },
+  {
+    "name": "Uva Niagara Embalagem 500G",
+    "price": "R$ 12,98"
+  },
+  {
+    "name": "Ameixa Nacional",
+    "price": "R$ 12,98 kg"
+  },
+  {
+    "name": "Melão Amarelo Kg",
+    "price": "R$ 7,98 kg"
+  },
+  {
+    "name": "Goiaba Vermelha",
+    "price": "R$ 12,98 kg"
+  },
+  {
+    "name": "Maca Fuji",
+    "price": "R$ 15,98 kg"
+  },
+  {
+    "name": "Abacate",
+    "price": "R$ 7,98 kg"
+  },
+  {
+    "name": "Pera Williams",
+    "price": "R$ 24,98 kg"
+  },
+  {
+    "name": "Laranja Lima",
+    "price": "R$ 6,98 kg"
+  },
+  {
+    "name": "Uva Crimson Florestal 500G",
+    "price": "R$ 12,98"
+  },
+  {
+    "name": "Lichia Ramiro 500G",
+    "price": "R$ 28,98"
+  },
+  {
+    "name": "Kiwi Importado",
+    "price": "R$ 29,98 kg"
+  },
+  {
+    "name": "Limão Siciliano",
+    "price": "R$ 9,98 kg"
+  },
+  {
+    "name": "Banana Maçã Kg",
+    "price": "R$ 9,98 kg"
+  },
+  {
+    "name": "Melão Rei",
+    "price": "R$ 14,98 kg"
+  },
+  {
+    "name": "Pera Packans",
+    "price": "R$ 13,98 kg"
+  },
+  {
+    "name": "Maçã Ramirinho 1Kg",
+    "price": "R$ 11,98"
+  },
+  {
+    "name": "Pera Portuguesa",
+    "price": "R$ 19,98 kg"
+  },
+  {
+    "name": "Uva Vitória Ramiro 500G",
+    "price": "R$ 13,98"
+  },
+  {
+    "name": "Maçã Verde",
+    "price": "R$ 16,98 kg"
+  },
+  {
+    "name": "Melão Cepi",
+    "price": "R$ 9,98 kg"
+  },
+  {
+    "name": "Uva Passa Preta Uva Feliz 150G",
+    "price": "R$ 4,98 R$ 5,49"
+  },
+  {
+    "name": "Uva Passa Escura Brasil Frutt 200G",
+    "price": "R$ 8,49"
+  },
+  {
+    "name": "Coco Verde",
+    "price": "R$ 5,49"
+  },
+  {
+    "name": "Coco",
+    "price": "R$ 11,29 kg"
+  },
+  {
+    "name": "Fruta Uva Niagara G Kg",
+    "price": "R$ 29,98 kg"
+  },
+  {
+    "name": "Uva Passa Escura sem Semente Raiz do Bem 150G",
+    "price": "R$ 6,98 R$ 9,99"
+  },
+  {
+    "name": "Laranja Bahia Importada Kg",
+    "price": "R$ 17,98 kg"
+  },
+  {
+    "name": "Maca Red Importada Kgr",
+    "price": "R$ 16,98 kg"
+  },
+  {
+    "name": "Goiaba Branca",
+    "price": "R$ 18,98 kg"
+  },
+  {
+    "name": "Damasco Seco Feliz 150G",
+    "price": "R$ 14,98 R$ 15,79"
+  },
+  {
+    "name": "Mix Fruta Seca Brasil Frutt 200G",
+    "price": "R$ 19,98"
+  },
+  {
+    "name": "Tamara Seca com Caroço Garden Fruit 200G",
+    "price": "R$ 6,79"
+  },
+  {
+    "name": "Figo Turco Seco Nature's Garden 250G",
+    "price": "R$ 12,98"
+  },
+  {
+    "name": "Tâmara Jumbo com Caroço Quinta Semente 500G",
+    "price": "R$ 27,98"
+  },
+  {
+    "name": "Uva Vitória Florestal 500G",
+    "price": "R$ 13,98"
+  },
+  {
+    "name": "Ameixa Preta Seca sem Caroço Feliz 150G",
+    "price": "R$ 8,98 R$ 9,79"
+  },
+  {
+    "name": "Ameixa Seca Olé Lata 180G",
+    "price": "R$ 13,49"
+  },
+  {
+    "name": "Mix Vai Bem Raiz do Bem Pt 130Gr",
+    "price": "R$ 8,98 R$ 11,99"
+  },
+  {
+    "name": "Melão Pele de Sapo",
+    "price": "R$ 8,98 kg"
+  },
+  {
+    "name": "Laranja Lima Pérsia",
+    "price": "R$ 9,98 kg"
+  },
+  {
+    "name": "Frutas Cristalizadas Feliz Pote 150G",
+    "price": "R$ 8,98 R$ 9,98"
+  },
+  {
+    "name": "Uva Passa Branca sem Semente sem Glúten e sem Adição de Açúcar Feliz 150G",
+    "price": "R$ 7,98 R$ 8,79"
+  },
+  {
+    "name": "Coco Seco Picado Bandeja Kg",
+    "price": "R$ 29,98 kg"
+  },
+  {
+    "name": "Ameixa sem Caroço Brasil Frutt 200G",
+    "price": "R$ 17,98"
+  },
+  {
+    "name": "Damasco Seco Brasil Frutt 200G",
+    "price": "R$ 24,98"
+  },
+  {
+    "name": "Ameixa Seca C/C Feliz 150G",
+    "price": "R$ 7,98 R$ 8,79"
+  },
+  {
+    "name": "Uva Passa Clara Raiz do Bem sem Semente Embalagem 150G",
+    "price": "R$ 11,98 R$ 14,99"
+  },
+  {
+    "name": "Ameixa Seca com Caroço Tozzi 180G",
+    "price": "R$ 11,98"
+  },
+  {
+    "name": "Ameixa Seca com Caroço Vai Bem 130G",
+    "price": "R$ 12,49 R$ 13,98"
+  },
+  {
+    "name": "Ameixa Seca sem Caroço Raiz do Bem 150G",
+    "price": "R$ 17,98 R$ 19,98"
+  },
+  {
+    "name": "Vai Bem Ameixa sem Caroço 130G",
+    "price": "R$ 13,98 R$ 14,98"
+  },
+  {
+    "name": "Ameixa e Damasco Seco Raiz do Bem Pote 160G",
+    "price": "R$ 19,98"
+  },
+  {
+    "name": "Fruta Melancia",
+    "price": "R$ 36,98 kg"
+  }
+]
